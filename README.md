@@ -22,7 +22,7 @@ RegisterNumber:25017628
 
 
 ## Output:
-![lu decomposition]()
+
 <img width="1289" height="644" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/758757f1-05e3-454c-99ba-4e54fe04bae8" />
 <img width="951" height="302" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/53865a92-bdbc-4217-bff8-dfe3b00a592a" />
 
