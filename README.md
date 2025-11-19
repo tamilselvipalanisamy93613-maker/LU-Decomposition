@@ -14,26 +14,12 @@ To write a program to find the LU Decomposition of a matrix.
 4.End the program 
 
 ## Program:
-(i) To find the L and U matrix
-```
-<img width="1238" height="885" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/0ba358ab-ea96-4b7c-9fc1-46ebf847ac6b" />
-
-/*
-Program to find the L and U matrix.
 Developed by:TAMILSELVI P 
 RegisterNumber:25017628 
-*/
-```
-(ii) To find the LU Decomposition of a matrix
-```
+<img width="1238" height="885" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/0ba358ab-ea96-4b7c-9fc1-46ebf847ac6b" />
 <img width="1174" height="819" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/4b482698-bfc7-476d-bb21-e4511db11920" />
 
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by:TAMILSELVI P 
-RegisterNumber:25017628 
-*/
-```
+
 
 ## Output:
 ![lu decomposition]()
